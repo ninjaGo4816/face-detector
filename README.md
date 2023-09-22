@@ -4,4 +4,4 @@ In the context of the Django web application, my prior experience was primarily 
 
 Subsequently, I reached a point of frustration and decided to discontinue the development of the web user interface. Consequently, I am presently in the process of submitting my facial detection model for review. While I initially contemplated implementing a solution using React.js, constraints on time and a sense of demotivation ultimately led to this decision. I hope my honesty in detailing these challenges will contribute to a fair consideration of my submission.
 
-Requirements: IDE - Jupyter notebook, Laptop with a webcam
+Requirements: IDE - Jupyter notebook, Opencv version 4.5.5, Laptop with a webcam
